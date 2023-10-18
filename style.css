@@ -80,8 +80,8 @@ body {
      color: var(--cor5);
 }
 .link__pai {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-template-columns: 10%;
     gap: 5px;
     margin: 15px 5px;
 }
